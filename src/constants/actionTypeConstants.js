@@ -1,0 +1,2 @@
+export const STORE_REPO = "STORE_REPO";
+export const REPO_API_INPROGRESS = "REPO_API_INPROGRESS";

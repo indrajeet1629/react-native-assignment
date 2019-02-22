@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "REACT_NATIVE",
+    "androidStatusBar": {
+      "backgroundColor": "#B71C1C"
+    },
+    "sdkVersion": "27.0.0",
+    "slug": "reactnative",
+    "icon": "./github-logo.png",
+    "splash": {
+      "image": "./Splash-Screen.png"
+    },
+    "ios": {
+      "bundleIdentifier": "com.self.reactNativeApp",
+      "usesIcloudStorage": true
+    },
+    "orientation": "portrait",
+    "android": {
+      "package": "com.self.reactNativeApp"
+    },
+    "notification": {
+      "icon": "./github-logo.png"
+    }
+  }
+}
